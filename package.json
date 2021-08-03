@@ -1,7 +1,7 @@
 {
-  "name": "lerndoku-hugo",
+  "name": "learndoc-hugo",
   "version": "1.0.0",
-  "description": "Lerndoku / Tux",
+  "description": "Learndoc / Tux",
   "repository": {
     "type": "git",
     "url": "git@github.com:puzzle-bbt/learndoc.git"

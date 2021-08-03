@@ -1,4 +1,4 @@
-# Lerndoku/ Puzzle
+# Learndoc / Puzzle
 
 
 The learndoc is available on GitHub Pages [here](https://puzzle-bbt.github.io/puzzle-bbt/learndoc).
