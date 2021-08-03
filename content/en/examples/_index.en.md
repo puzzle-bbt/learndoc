@@ -10,7 +10,7 @@ menu:
 {{< blocks/section type="section" color="light">}}
 
 {{% blocks/feature icon="fa-chalkboard-teacher" title="Examples" %}}
-coming soon
+examples coming soon
 {{% /blocks/feature %}}
 
 {{< /blocks/section >}}
